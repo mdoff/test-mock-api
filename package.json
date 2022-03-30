@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "start:be": " npm start --workspace=be",
-    "start:fe": " npm start --workspace=fe"
+    "start:fe": " npm start --workspace=fe",
+    "start": "npm run start:be"
   },
   "repository": {
     "type": "git",

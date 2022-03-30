@@ -26,6 +26,7 @@
     },
     "homepage": "https://github.com/mishaszu/test-mock-api#readme",
     "dependencies": {
+        "cors": "^2.8.5",
         "express": "^4.17.1",
         "node-json-db": "^1.4.1",
         "ramda": "^0.27.1"
